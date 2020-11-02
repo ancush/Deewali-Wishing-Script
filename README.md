@@ -1,3 +1,1 @@
-# Deewali-Wishing-Script
-Wishing script 
-
+Welcome to my git .....enjoy coding
